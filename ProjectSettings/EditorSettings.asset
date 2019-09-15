@@ -4,11 +4,7 @@
 EditorSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 7
-<<<<<<< HEAD
   m_ExternalVersionControlSupport: Hidden Meta Files
-=======
-  m_ExternalVersionControlSupport: Visible Meta Files
->>>>>>> 46cee262a8692d22f551d30836fdad7d84d29b46
   m_SerializationMode: 2
   m_LineEndingsForNewScripts: 2
   m_DefaultBehaviorMode: 0
@@ -18,11 +14,7 @@ EditorSettings:
   m_EtcTextureFastCompressor: 1
   m_EtcTextureNormalCompressor: 2
   m_EtcTextureBestCompressor: 4
-<<<<<<< HEAD
   m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;rsp
-=======
-  m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd
->>>>>>> 46cee262a8692d22f551d30836fdad7d84d29b46
   m_ProjectGenerationRootNamespace: 
   m_UserGeneratedProjectSuffix: 
   m_CollabEditorSettings:
